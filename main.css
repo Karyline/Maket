@@ -1,0 +1,39 @@
+body {
+  font-family: "Open Sans" , Helvetica, sans-serif; 
+  color: #fff;
+  line-height: 1.42;
+  background: #29292c;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+a{
+  color: inherit;
+}
+
+
+header{
+  height: 120px;
+  position: relative;
+}
+
+
+.logo{
+display: block;
+position: absolute;
+top: 57px;
+left: 0;
+}
+
+.menu{
+  position: absolute;
+  top: 65px;
+  left: 250px;
+}
+
+.contacts{
+  position: absolute;
+  top: 48px;
+  right: 0;
+}
